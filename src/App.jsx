@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import {
   ArrowDown, ArrowDownRight, ArrowRight, ArrowUpRight, Code2, Github,
   Instagram, Linkedin, Mail, Menu, X, Sparkles, Monitor, Layers3, Braces,
