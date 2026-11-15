@@ -55,7 +55,7 @@ export default function App() {
             <div className="orbit orbit-one" /><div className="orbit orbit-two" />
             <div className="profile-card">
               <div className="card-top"><span>PROFILE / 001</span><span className="online"><i /> ONLINE</span></div>
-              <div className="avatar-wrap"><img src="https://avatars.githubusercontent.com/u/177917278?v=4" alt="Gurpeet Singh GitHub avatar" /><div className="avatar-glow" /></div>
+              <div className="avatar-wrap"><img src="/profile.jpg" alt="Gurpeet Singh GitHub avatar" /><div className="avatar-glow" /></div>
               <div className="card-bottom"><div><strong>Gurpeet Singh</strong><small>Frontend Developer</small></div><span className="card-arrow"><ArrowUpRight /></span></div>
             </div>
             <div className="float-tag tag-top"><Code2 size={16} /> HTML · CSS · JS</div>
