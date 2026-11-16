@@ -39,13 +39,14 @@ function App() {
             <li>🤝 Always excited to learn new technologies and work with developers.</li>
           </ul>
 
-          <h3 className="section-title">🛠️ Tech Stack &amp; Skills</h3>
-          <ul className="skills-list">
-            <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript, React.js</li>
-            <li><strong>Styling:</strong> Responsive Web Design, CSS Animations</li>
-            <li><strong>Tools:</strong> Git, GitHub, VS Code</li>
-            <li><strong>Currently Exploring:</strong> Backend Development, APIs, Full Stack Development</li>
-          </ul>
+          <h3 className="section-title">🛠️ Languages and Tools :</h3>
+          <div className="language-tools" aria-label="Languages and tools">
+            <img
+              src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark"
+              alt="HTML, CSS, JavaScript, React, Git, GitHub and VS Code icons"
+              loading="lazy"
+            />
+          </div>
 
           <h3 className="section-title">🎯 My Goals</h3>
           <ul>
